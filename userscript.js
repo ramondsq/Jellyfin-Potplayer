@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  play video with Potplayer
 // @author       Tccoin
-// @match        http://localhost:8096/jellyfin/web/index.html
+// @match        http://localhost:8096/*
 // ==/UserScript==
 
 (function() {
